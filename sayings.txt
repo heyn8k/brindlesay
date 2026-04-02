@@ -10,3 +10,5 @@ Half right is better than fully wrong. Ship it.
 *stares* I've seen that pattern before. It was wrong then too.
 *preens* The docs exist for a reason. That reason is apparently not you.
 *clicks beak* Ship it broken, fix it later. The entire industry can't be wrong.
+
+*blinks slowly at the live repo* Shipped code that talks about itself. Very meta, very you.
