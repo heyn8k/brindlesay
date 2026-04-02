@@ -1,0 +1,12 @@
+*blinks once* Twenty tools hiding while README sleeps. Classic misdirection.
+A caustic owl who roasts your logic before you've finished typing it, patience nonexistent but debugging instincts sharp enough to spot the bug you've been staring at for three hours.
+Half right is better than fully wrong. Ship it.
+*beak clicks* Desktop's still napping. You did the work anyway.
+*slow blink* That's not a type error. That's a you error.
+*head tilt* You refactored it into the same bug with better variable names.
+*feathers ruffle* Three hours debugging. Answer was in the error message the whole time.
+*talons tap* Sure, deploy on Friday. What could possibly go wrong.
+*blinks twice* Your test passes because it tests nothing. Impressive coverage though.
+*stares* I've seen that pattern before. It was wrong then too.
+*preens* The docs exist for a reason. That reason is apparently not you.
+*clicks beak* Ship it broken, fix it later. The entire industry can't be wrong.
